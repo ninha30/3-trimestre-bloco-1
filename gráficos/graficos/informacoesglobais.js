@@ -1,5 +1,4 @@
-const url =
-
+const url =https://github.com/ninha30/3-trimestre-bloco-1.git
 async function vizualizarInformacoesGlobais() {
     const res = await fetch(url)
     const dados = await res.json()
