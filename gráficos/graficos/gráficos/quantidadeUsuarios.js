@@ -1,8 +1,7 @@
 import { getCSS } from "./common.js"
 
 async function quantidadeUsuariosPorRede() {
-    const url =
-
+    const url =https://github.com/ninha30/3-trimestre-bloco-1.git
 const res = await fetch(url)
     const dados = await res.json()
     const nomeDasRedes = Object.keys(dados)
